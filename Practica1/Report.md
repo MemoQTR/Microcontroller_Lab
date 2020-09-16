@@ -94,3 +94,5 @@ In this section, you must report the outcomes of the laboratory activities.
 
 In this section, you should add the conclusions, suggestions, and/or problems of the laboratory activities. Each team member must add his/her own conclusion (5 lines as minimum for each member).
 
+Con esta practica queda claro cuales circuitos basicos para una tarjeta, microntrolador, y como es que se construyen a traves de los diversos componentes y herramientas que el software de Kicad proporciona, comprendiendo como apartir de un esquemtatico constituido por simbolos que representan un elemento fisico en asociacion a un componente electronico.La capacidad del software al integrar una extensa variedad de librerias deja una gran libeertad en la crecion de los esquematicos 
+
