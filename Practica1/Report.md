@@ -89,16 +89,6 @@ In this section, you must report the outcomes of the laboratory activities.
 28. The schematic is finished. Now we can create a ‘Netlist file’ that will be added to the impression of each component. Click on the icon ‘Generate Netlist’  located in the toolbar on the top. Click on ‘Generate Netlist’ and then ‘Save.’ Save it with the name that appears by default.
 29. Now you may close the schematic editor.
 
-### Report
-For this practice, modify only the Conclusion section. Commit an push the changes on the fork of this repository and add
-upload the link on Canvas.
-
-### File uploads
-Commit and push the files with extensions .pro, .sch, and .net created once you completed all the steps of the document
-in forked repository.
-
-### Demonstration
-Screenshot the image of the complete schematic and upload it at the repository.
 
 ## Conclusion
 
